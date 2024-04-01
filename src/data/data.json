@@ -1,0 +1,159 @@
+{
+  "Header": {
+    "title": "GARAGE DOOR REPAIR",
+    "paragraph": "Expert Garage Door Solutions: Your Trusted Partner for Quality Service"
+  },
+  "About": {
+    "paragraph": "As a homeowner, it's important to ensure the safety and proper functioning of your garage door. Just because it opens and closes smoothly, doesn't mean it's in optimal condition. In fact, some parts of your garage door may be damaged without you even noticing, putting you and your family at risk. To avoid these potential dangers, it's essential to regularly inspect and maintain your garage door.\n\nOne of the most common issues with modern garage doors is the need for repair or replacement of certain components. While some homeowners may opt for DIY solutions, it's important to note that accessing your garage door through manual unlocking tools is not recommended by factory standards. This can result in further damage and put your safety at risk.\n\nWhile having access to your garage door only via manual unlocking tools may seem like a convenient solution, it's not recommended by factory standards. This method can cause damage to your garage door and increase the risk of accidents. Instead, you should opt for a professionally installed automatic garage door opener that provides a secure and convenient way to access your garage.",
+    "Why": [
+      "Expert Technicians",
+      "Prompt Service",
+      "Quality Workmanship",
+      "Transparent Pricing"
+    ],
+    "Why2": [
+      "Customer Satisfaction",
+      "Reliable Repairs",
+      "Safety Assurance",
+      "Trusted Experience"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Main door",
+      "largeImage": "img/gallery_1.jpeg",
+      "smallImage": "img/gallery_1.jpeg"
+    },
+    {
+      "title": "Two doors",
+      "largeImage": "img/gallery_5_7.jpg",
+      "smallImage": "img/gallery_5_7.jpg"
+    },
+    {
+      "title": "Two doors",
+      "largeImage": "img/gallery_4.jpeg",
+      "smallImage": "img/gallery_4.jpeg"
+    }
+
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "GARAGE DOORS",
+      "text": "Premium Selection: Offering a diverse range of high-quality garage doors to enhance your home's aesthetics and functionality."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "OPENERS",
+      "text": "Innovative Technology: State-of-the-art garage door opener systems designed for seamless operation and convenience."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "REPAIR",
+      "text": "Prompt Service: Swift and efficient repair solutions to address any issues with your garage door, restoring functionality in no time."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "SPRINGS",
+      "text": "Vital Components: Garage door springs play a crucial role in the smooth operation of your door, providing balance and support."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Installation",
+      "text": "Customized garage door installation services to match your specific preferences and architectural style."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Cable replacement",
+      "text": "Safety Assessment: Thorough inspection to identify any issues with your garage door cables, prioritizing safety."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Exceptional service! Prompt, professional, and reliable. Highly recommend for any garage door needs.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Outstanding workmanship! Our garage door was fixed swiftly and efficiently. Couldn't be happier with the results.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Transparent pricing and honest communication throughout the repair process. Definitely my go-to for any garage door issues.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Impressed by their expertise and attention to detail. Our garage door now operates smoother than ever before.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Trustworthy company with a strong focus on safety. I feel confident knowing they handle all our garage door repairs.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Top-notch service from start to finish. Their experienced team made the whole experience hassle-free. Would definitely use again!\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "far fa-garage",
+      "img": "img/DoorPic.jpeg",
+      "title": "Garage Doors",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "img": "img/annual.jpeg",
+      "title": "Maintenance",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-group",
+      "img": "img/repair.jpeg",
+      "title": "Repair",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-magic",
+      "img": "img/installation.jpeg",
+      "title": "Installation",
+      "text": ""
+    }
+  ]
+}
