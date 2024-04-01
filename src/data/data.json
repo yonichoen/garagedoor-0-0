@@ -38,32 +38,32 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-cogs",
       "name": "GARAGE DOORS",
       "text": "Premium Selection: Offering a diverse range of high-quality garage doors to enhance your home's aesthetics and functionality."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-sliders",
       "name": "OPENERS",
       "text": "Innovative Technology: State-of-the-art garage door opener systems designed for seamless operation and convenience."
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-wrench",
       "name": "REPAIR",
       "text": "Prompt Service: Swift and efficient repair solutions to address any issues with your garage door, restoring functionality in no time."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-database",
       "name": "SPRINGS",
       "text": "Vital Components: Garage door springs play a crucial role in the smooth operation of your door, providing balance and support."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-gavel",
       "name": "Installation",
       "text": "Customized garage door installation services to match your specific preferences and architectural style."
     },
     {
-      "icon": "fa fa-pie-chart",
+      "icon": "fa fa-refresh",
       "name": "Cable replacement",
       "text": "Safety Assessment: Thorough inspection to identify any issues with your garage door cables, prioritizing safety."
     }

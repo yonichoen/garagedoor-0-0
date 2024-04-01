@@ -606,3 +606,23 @@ label {
     margin: 50px 0;
   }
 }
+
+.text-animation {
+  text-align: center;
+  margin-top: 100px;
+}
+
+/* Define animation keyframes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Apply animation to text */
+.animated-text {
+  animation: fadeIn 2s ease-in-out; /* Change animation duration and timing function as needed */
+}
