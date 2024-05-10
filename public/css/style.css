@@ -424,6 +424,19 @@ header .intro-text {
   height: 64px;
   border-radius: 50%;
 }
+
+.services-image {
+  float: left;
+  margin-right: 15px;
+}
+.services-image,
+.services-image img {
+  display: block;
+  width: 94px;
+  height: 94px;
+  border-radius: 30%;
+}
+
 .testimonial-content {
   position: relative;
   overflow: hidden;
