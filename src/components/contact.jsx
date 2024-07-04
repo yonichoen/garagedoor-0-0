@@ -15,16 +15,22 @@ export const Contact = (props) => {
     setState((prevState) => ({ ...prevState, [name]: value }));
   };
   const clearState = () => setState({ ...initialState });
-  
-  
+
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(name, email, message);
-    
-    {/* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */ }
-    
+
+    {
+      /* replace below with your own Service ID, Template ID and Public Key from your EmailJS account */
+    }
+
     emailjs
-      .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_PUBLIC_KEY")
+      .sendForm(
+        "YOUR_SERVICE_ID",
+        "YOUR_TEMPLATE_ID",
+        e.target,
+        "YOUR_PUBLIC_KEY"
+      )
       .then(
         (result) => {
           console.log(result.text);
@@ -116,14 +122,6 @@ export const Contact = (props) => {
                 {props.data ? props.data.phone : "loading"}
               </p>
             </div>
-            <div className="contact-item">
-              <p>
-                <span>
-                  <i className="fa fa-envelope-o"></i> Email
-                </span>{" "}
-                {props.data ? props.data.email : "loading"}
-              </p>
-            </div>
           </div>
           <div className="col-md-12">
             <div className="row">
@@ -150,7 +148,6 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-
     </div>
   );
 };

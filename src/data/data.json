@@ -34,7 +34,6 @@
       "largeImage": "img/gallery_4.jpeg",
       "smallImage": "img/gallery_4.jpeg"
     }
-
   ],
   "Services": [
     {
@@ -129,8 +128,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "2 New Jersey 27 STE 306, Edison, New Jersey 08820",
+    "phone": "(908) 263-1144",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
