@@ -26,9 +26,19 @@ export const Header = (props) => {
                   style={{
                     fontSize: "30px",
                     fontFamily: "sans-serif",
+                    marginBottom: "30px",
                   }}
                 >
                   {props.data ? props.data.paragraph : "Loading"}
+                </p>
+                <p
+                  style={{
+                    fontSize: "30px",
+                    fontFamily: "sans-serif",
+                    marginBottom: "50px",
+                  }}
+                >
+                  {props.data ? props.data.tel : "Loading"}
                 </p>
                 <a
                   href="#features"
